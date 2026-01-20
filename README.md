@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 
 
 <!--
-**danilisimussama/danilisimussama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Danil Sedykh.
 
-Here are some ideas to get you started:
+I am a 3rd-year Data Science (Business Informatics) student at the University of Debrecen.
+My main interests are data analysis, applied AI, robotics, and motorsport-related analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I work primarily with Python for data analysis and basic machine learning.
+I also have experience with SQL, Excel (including macros), SPSS, SAP, and Tableau.
+I use both Ubuntu and Windows depending on the task.
+
+Most of my university coursework is already completed, which allows me to focus on practical projects and my bachelor thesis.
+I am currently looking for an internship or part-time role in data analytics or related fields, where I can apply my skills to real-world problems.
+
+My projects are listed below
 -->
