@@ -1,6 +1,12 @@
 ## Hi there 
 
 <!--
+Focus areas:
+• Data analysis & SQL
+• Applied modeling and analytics
+• Data-driven systems (motorsport, logistics)
+• Market and product analysis
+
 Hi, I’m Danil Sedykh.
 
 I am a 3rd-year Data Science (Business Informatics) student at the University of Debrecen.
