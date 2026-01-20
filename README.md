@@ -1,4 +1,4 @@
-<div>
+<img width="800" height="736" alt="image" src="https://github.com/user-attachments/assets/7c0ca841-7907-4272-8da1-15f89238b7b3" /><div>
   
 <h3>Data Science student focused on analytics and machine learning 🏎️🏍️🛵</h3>
 
@@ -13,3 +13,4 @@ I use both Ubuntu and Windows depending on the task.</p>
 I am currently looking for an internship or part-time role in data analytics or related fields, where I can apply my skills to real-world problems.</p>
 
 </div>
+<img width="800" height="736" alt="image" src="https://github.com/user-attachments/assets/3d318051-04c0-46db-a461-db0aa9367638" />
