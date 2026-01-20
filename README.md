@@ -11,6 +11,5 @@ I use both Ubuntu and Windows depending on the task.</p>
 
 <p>Most of my university coursework is already completed, which allows me to focus on practical projects and my bachelor thesis.
 I am currently looking for an internship or part-time role in data analytics or related fields, where I can apply my skills to real-world problems.</p>
-<p><b>Tools & Technologies:</b></p>
 
 </div>
