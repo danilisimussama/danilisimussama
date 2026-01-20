@@ -13,7 +13,7 @@ I am a 3rd-year Data Science (Business Informatics) student at the University of
 My main interests are data analysis, applied AI, robotics, and motorsport-related analytics.
 
 I work primarily with Python for data analysis and basic machine learning.
-I also have experience with SQL, Excel (including macros), SPSS, SAP, and Tableau.
+I also have experience with SQL, Excel (including macros), SPSS, SAS, SAP, and Tableau.
 I use both Ubuntu and Windows depending on the task.
 
 Most of my university coursework is already completed, which allows me to focus on practical projects and my bachelor thesis.
