@@ -1,6 +1,6 @@
 <div>
   
-<h2>Data Science student focused on analytics and machine learning 🏎️🏍️🛵</h2>>
+<h2>Data Science student focused on analytics and machine learning 🏎️🏍️🛵</h2>
 
 <p>I am a 3rd-year Data Science (Business Informatics) student at the University of Debrecen.
 My main interests are data analysis, applied AI, robotics, and motorsport.</p>
