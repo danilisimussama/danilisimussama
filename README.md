@@ -1,4 +1,4 @@
-<img width="800" height="736" alt="image" src="https://github.com/user-attachments/assets/7c0ca841-7907-4272-8da1-15f89238b7b3" /><div>
+<div>
   
 <h3>Data Science student focused on analytics and machine learning 🏎️🏍️🛵</h3>
 
