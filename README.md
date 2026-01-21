@@ -12,6 +12,6 @@ I use both Ubuntu and Windows depending on the task.</p>
 <p>Most of my university coursework is already completed, which allows me to focus on practical projects and my bachelor thesis.
 I am currently looking for an internship or part-time role in data analytics or related fields, where I can apply my skills to real-world problems.</p>
 
-<img width="800" height="736" alt="image" src="https://github.com/user-attachments/assets/3d318051-04c0-46db-a461-db0aa9367638" />
+<img width="800" height="736" alt="image" src=["https://github.com/user-attachments/assets/3d318051-04c0-46db-a461-db0aa9367638](https://github.com/danilisimussama/danilisimussama/blob/main/memes%20for%20fools.png?raw=true)" />
 
 </div>
