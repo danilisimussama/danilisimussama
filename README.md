@@ -7,7 +7,7 @@ My main interests are data analysis, applied AI, robotics, and motorsport.</p>
 
 <p>I work primarily with Python for data analysis and basic machine learning.
 I also have experience with SQL, Excel, SPSS, SAS, SAP, and Tableau.
-I am currently in the process of learning ROS, YOLO and Ubuntu. </p>
+I am currently in the process of learning ROS, YOLO, and Ubuntu</p>
 
 <p>Most of my university coursework is already completed. That's why I'm writing my thesis, looking for a job, and enjoying life.</p>
 
